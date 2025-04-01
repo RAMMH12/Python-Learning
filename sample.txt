@@ -1,0 +1,2 @@
+Line 1 :This is sample Text file 
+Line 2: it contain multiple lineHi Ram Why are you learning Python888888
